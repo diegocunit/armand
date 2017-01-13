@@ -95,7 +95,7 @@ public class Tests {
            palabras.add(p1);
       }
       
-      System.out.println("Palabras"+ palabras);
+      System.out.println("Palabras: "+ palabras);
       
      /* ParaulesHashSet p1 = new ParaulesHashSet (1,"palabra1");
       ParaulesHashSet p2 = new ParaulesHashSet (2,"palabra2");
